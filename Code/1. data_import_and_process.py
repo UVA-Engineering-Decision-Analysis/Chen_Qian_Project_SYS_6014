@@ -1,4 +1,7 @@
 # -*- coding:utf-8 -*-
+# The original data is too big that it cannout upload to Github
+# This code may not work without data of netease_playlist_original_data.json
+
 
 import json
 import pandas as pd
